@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [d0tslash.tech](d0tslash.tech)
+- 👨‍💻 All of my projects are available at  <a href="d0tslash.tech" target="blank">
 
 - 📝 I regularly write articles on [d0tslash.tech/blog](d0tslash.tech/blog)
 
