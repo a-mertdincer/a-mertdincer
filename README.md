@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at  <a href="d0tslash.tech" target="blank">
+- 👨‍💻 All of my projects are available at [https://www.d0tslash.tech](https://www.d0tslash.tech)
 
-- 📝 I regularly write articles on [d0tslash.tech/blog](d0tslash.tech/blog)
+- 📝 I regularly write articles on [https://www.d0tslash.tech/blog](https://www.d0tslash.tech/blog)
 
 - 📫 How to reach me **a.mertdincr@gmail.com**
 
-- 📄 Know about my experiences [d0tslash.tech/cv](d0tslash.tech/cv)
+- 📄 Know about my experiences [https://www.d0tslash.tech/cv](https://www.d0tslash.tech/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
