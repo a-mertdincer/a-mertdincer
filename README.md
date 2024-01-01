@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [My Website](https://www.d0tslash.tech)
 
-- 📝 I regularly write articles on [My Blog Page](https://www.d0tslash.tech/blog)
+- 📝 I regularly write articles on [My Blog Page](https://www.lsociety.net)
 
 - 📫 How to reach me **a.mertdincr@gmail.com**
 
