@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [My Website](https://www.d0tslash.tech)
+- 👨‍💻 All of my projects are available at [My Website](https://a-mertdincer.github.io)
 
 - 📝 I regularly write articles on [My Blog Page](https://www.lsociety.net)
 
