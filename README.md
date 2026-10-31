@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [My Website](https://a-mertdincer.github.io)
 
-- 📝 I regularly write articles on [My Blog Page](https://www.lsociety.net)
-
 - 📫 How to reach me **a.mertdincr@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://www.d0tslash.tech/cv)
