@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **a.mertdincr@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://www.d0tslash.tech/cv)
+- 📄 Know about my experiences [My Resume](https://a-mertdincer.github.io/cv/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
